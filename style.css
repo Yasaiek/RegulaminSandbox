@@ -6,7 +6,7 @@ body {
 }
 
 .containermain {
-    margin-left: 450px;
+    margin-left: 45%;
     background-color: rgba(70, 69, 69, 0.288);
     border: 2.5px solid #89dce2;
     margin-top: 65px;
@@ -103,7 +103,7 @@ h1 {
 
 main {
     margin-top: 100px;
-    margin-left: 575px;
+    margin-left: 58%;
     background-color: rgba(70, 69, 69, 0.288);
     backdrop-filter: blur(3.5px);
     border: 2.5px solid #03f7ff;
